@@ -58,7 +58,7 @@ the-java-bank
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/the-java-bank.git](https://github.com/sanketkr248/javaBankApp.git)
+git clone https://github.com/sanketkr248/javaBankApp.git
 cd the-java-bank
 ```
 
